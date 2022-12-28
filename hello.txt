@@ -1,1 +1,2 @@
 this is a practice git repo!
+i'm practicing creating a local repo first, then pushing to github.
